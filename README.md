@@ -1,7 +1,3 @@
-Here’s a polished and complete `README.md` for your project based on your GitHub repository:
-
----
-
 # AI Image Generator 🚀
 
 A full-stack application built with **Spring Boot** (backend) and **Next.js** (frontend) that allows users to:
